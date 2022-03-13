@@ -1,0 +1,11 @@
+/* ONLY for example if we used css unstead of styled components */
+
+.css-example {
+  display: flex;
+  align-items: center;
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.css-example::-webkit-scrollbar {
+  display: none;
+}
