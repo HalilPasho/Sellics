@@ -4,14 +4,13 @@ export const MainContainerApp = styled.div`
   text-align: center;
   width: 50vw;
   background: #fff;
-  height: 90vh;
+  height: 100%;
   margin: auto;
   margin-top: 50px;
 
   @media (max-width: 768px) {
     width: 100%;
     margin-top: 0px;
-    height: 100%;
   }
 `;
 
